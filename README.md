@@ -71,12 +71,6 @@
 [![Md Nayan Mia's github streak](https://github-readme-streak-stats.herokuapp.com/?user=mdnayanmia31&theme=blue-green)](https://github.com/mdnayanmia31/github-readme-streak-stats)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdnayanmia31&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mdnayanmia31&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mdnayanmia31&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 ---
