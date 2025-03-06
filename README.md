@@ -69,7 +69,6 @@
 
 # 📊 GitHub Stats:
 [![Md Nayan Mia's github streak](https://github-readme-streak-stats.herokuapp.com/?user=mdnayanmia31&theme=blue-green)](https://github.com/mdnayanmia31/github-readme-streak-stats)<br>
-### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 ---
 [![](https://visitcount.itsvg.in/api?id=ChanderParkash179&label=Weekly%20Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
