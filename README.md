@@ -69,8 +69,6 @@
 
 # 📊 GitHub Stats:
 [![Md Nayan Mia's github streak](https://github-readme-streak-stats.herokuapp.com/?user=mdnayanmia31&theme=blue-green)](https://github.com/mdnayanmia31/github-readme-streak-stats)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdnayanmia31&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 ---
