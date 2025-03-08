@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/Nayan_Karim31" target="blank"><img src="https://img.shields.io/twitter/follow/nayan31?logo=twitter&style=for-the-badge" alt="nayan31" /></a> </p>
  
 ### 👨🏻‍💻 &nbsp;About Me <img align="left" width="175" height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
-🙋‍♂️ Software Engineering Student | Software Engineer | Tech Geek  
+🙋‍♂️ Software Engineering Student | Java FullStack Software Engineer | Tech Geek  
 
 💡 I like to explore new technologies and discover new ways to use Java.
 
@@ -71,4 +71,3 @@
 [![Md Nayan Mia's github streak](https://github-readme-streak-stats.herokuapp.com/?user=mdnayanmia31&theme=blue-green)](https://github.com/mdnayanmia31/github-readme-streak-stats)<br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 ---
-[![](https://visitcount.itsvg.in/api?id=ChanderParkash179&label=Weekly%20Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
