@@ -65,7 +65,3 @@
 - <a href="https://www.hackerrank.com/profile/mdnayanmia31">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 
 - <a href="https://leetcode.com/mdnayanmia31/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
-
-
-# 📊 GitHub Stats:
-[![Md Nayan Mia's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdnayanmia31&theme=blue-green)](https://github.com/mdnayanmia31/github-readme-streak-stats)<br>
