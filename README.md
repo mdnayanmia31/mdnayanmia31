@@ -7,6 +7,7 @@
 🙋‍♂️ Software Engineering Student | Java FullStack Software Engineer | Tech Geek  
 
 💡 I like to explore new technologies and discover new ways to use Java.
+
 🤼 I’m looking to collaborate on new open-source projects. 
 
 <br>
