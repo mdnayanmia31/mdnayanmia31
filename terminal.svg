@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="760" height="140" viewBox="0 0 760 140"
+     role="img" aria-label="Typing terminal showing github.com/mdnayanmia31">
+  <title>Typing terminal — github.com/mdnayanmia31</title>
+
+  <style>
+    svg { --chars: 28; --duration: 6s; }
+
+    .bg { fill: #0b0f14; stroke: rgba(255,255,255,0.03); stroke-width:1; filter: drop-shadow(0 6px 18px rgba(0,0,0,0.6)); }
+    .panel { rx:14; ry:14; }
+    text { font-family: SFMono-Regular, Menlo, Monaco, "Roboto Mono", "Segoe UI Mono", monospace; font-weight: 500; }
+    .prompt { fill: #7fd1a5; font-size:18px; opacity:0.95; }
+    .typed { fill: #e6f7ff; font-size:18px; letter-spacing:0.02em; }
+
+    .reveal-rect { fill: white; width: 0ch; height: 40px; animation: typing var(--duration) steps(var(--chars),end) infinite; }
+
+    .caret { width:6px; height:20px; rx:1.2; ry:1.2; fill:#7fd1a5; transform-origin: 0 0;
+            animation: caret-move var(--duration) steps(var(--chars),end) infinite, caret-blink 1s step-end infinite; }
+
+    @keyframes typing {
+      0%   { width: 0ch; }
+      60%  { width: calc(var(--chars) * 1ch); }
+      75%  { width: calc(var(--chars) * 1ch); }
+      76%  { width: 0ch; }
+      100% { width: 0ch; }
+    }
+
+    @keyframes caret-move {
+      0%   { transform: translateX(0ch); }
+      60%  { transform: translateX(calc(var(--chars) * 1ch)); }
+      75%  { transform: translateX(calc(var(--chars) * 1ch)); }
+      76%  { transform: translateX(0ch); }
+      100% { transform: translateX(0ch); }
+    }
+
+    @keyframes caret-blink {
+      0%   { opacity: 1; }
+      50%  { opacity: 0; }
+      100% { opacity: 1; }
+    }
+
+    g { pointer-events: none; }
+  </style>
+
+
+  <rect class="bg panel" x="8" y="8" width="744" height="124" rx="14" />
+
+  <g transform="translate(26,26)">
+    <circle cx="0" cy="0" r="5.2" fill="#ff5f56"/>
+    <circle cx="18" cy="0" r="5.2" fill="#ffbd2e"/>
+    <circle cx="36" cy="0" r="5.2" fill="#27c93f"/>
+  </g>
+
+
+  <g transform="translate(36,64)">
+
+    <text class="prompt" x="0" y="6" dominant-baseline="middle">
+      &gt;_
+    </text>
+
+    <defs>
+      
+      <mask id="reveal">
+        <rect x="0" y="0" width="720" height="80" fill="black"/>
+        <rect class="reveal-rect" x="36" y="-14" />
+      </mask>
+    </defs>
+
+    <g mask="url(#reveal)">
+      <text class="typed" x="36" y="6" dominant-baseline="middle">
+        github.com/mdnayanmia31
+      </text>
+    </g>
+    
+    <g transform="translate(36, -8)">
+      <rect class="caret" x="0" y="0" width="6" height="20" rx="1.2" />
+    </g>
+  </g>
+</svg>
