@@ -5,7 +5,7 @@
   <title>Typing terminal — github.com/mdnayanmia31</title>
 
   <style>
-    svg { --chars: 28; --duration: 6s; }
+    svg { --chars: 26; --duration: 6s; }
 
     .bg { fill: #0b0f14; stroke: rgba(255,255,255,0.03); stroke-width:1; filter: drop-shadow(0 6px 18px rgba(0,0,0,0.6)); }
     .panel { rx:14; ry:14; }
@@ -69,8 +69,7 @@
 
     <g mask="url(#reveal)">
       <text class="typed" x="36" y="6" dominant-baseline="middle">
-        github.com/mdnayanmia31
-      </text>
+        github.com/mdnayanmia31</text>
     </g>
     
     <g transform="translate(36, -8)">
