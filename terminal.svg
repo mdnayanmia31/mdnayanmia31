@@ -62,8 +62,8 @@
     <defs>
       
       <mask id="reveal">
-        <rect x="0" y="0" width="720" height="80" fill="black"/>
-        <rect class="reveal-rect" x="36" y="-14" />
+        <rect x="0" y="0" width="780" height="85" fill="black"/>
+        <rect class="reveal-rect" x="36" y="-16" />
       </mask>
     </defs>
 
