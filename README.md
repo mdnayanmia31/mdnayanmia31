@@ -57,13 +57,8 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual%20studio%20code&logoColor=ffffff)
 
 
-### 💻 &nbsp;Find Me Here
-- <a href="https://www.linkedin.com/in/mdnayanmia/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-
 ### 📫 &nbsp; How to reach me:
 
 
 <a href="https://www.linkedin.com/in/mdnayanmia/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:mdnayanmia31@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://mdnayanmia31.github.io/Portfolio/"><img alt="Portfolio" src="[https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white](https://img.shields.io/badge/-Portfolio-darkred?style=for-the-badge&logo=dependabot&logoColor=white)" /></a> &nbsp;
