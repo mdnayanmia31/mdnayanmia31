@@ -60,12 +60,10 @@
 ### 💻 &nbsp;Find Me Here
 - <a href="https://www.linkedin.com/in/mdnayanmia/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-- <a href="https://mdnayanmia31.github.io/Portfolio/">![Portfolio](https://img.shields.io/badge/-Portfolio-darkred?style=for-the-badge&logo=dependabot&logoColor=white)</a>
 
-- <a href="https://www.instagram.com/_nayan31/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+### 📫 &nbsp; How to reach me:
 
-- <a href="https://codeforces.com/profile/mdnayanmia31">![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)</a>
 
-- <a href="https://www.hackerrank.com/profile/mdnayanmia31">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
-
-- <a href="https://leetcode.com/mdnayanmia31/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+<a href="https://www.linkedin.com/in/mdnayanmia/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:mdnayanmia31@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://mdnayanmia31.github.io/Portfolio/"><img alt="Portfolio" src="[https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white](https://img.shields.io/badge/-Portfolio-darkred?style=for-the-badge&logo=dependabot&logoColor=white)" /></a> &nbsp;
