@@ -6,11 +6,22 @@
 <p align="left"> <a href="https://twitter.com/Nayan_Karim31" target="blank"><img src="https://img.shields.io/twitter/follow/nayan31?logo=twitter&style=for-the-badge" alt="nayan31" /></a> </p>
  
 ### 👨🏻‍💻 &nbsp;About Me <img align="left" width="175" height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
-🙋‍♂️ Software Engineering Student | Java FullStack Software Engineer | Tech Geek  
 
-💡 I like to explore new technologies and discover new ways to use Java.
-
-🤼 I’m looking to collaborate on new open-source projects. 
+<div style="padding: 0 16px;">
+  <p>
+    I am <strong>Nayan</strong>, passionate about <strong>knowledge</strong> in all its forms - whether technology, nature, the universe, or life itself.
+    My hobbies revolve around various forms of <strong>development</strong>, from building applications to crafting designs. Since childhood, I've been fascinated by understanding how things work, which naturally led me to enjoy <strong>designing</strong> solutions and getting hands-on with <strong>development</strong>.
+  </p>
+  
+  <p>
+    Currently, I work as a Software Engineer at FinTech solutions, where I'm thoroughly enjoying my exploration of the finance world through Java - discovering how beautifully Java integrates within this domain.
+    I have a particular passion for <strong>web development</strong>, specializing in <strong>backend systems</strong> and full-stack applications using <strong>Spring Boot and React</strong>. As a full-stack developer, I bridge the gap between frontend elegance and backend robustness, creating seamless user experiences powered by solid architecture.
+  </p>
+  
+  <p>
+    I'm constantly eager to expand my technical horizons, learning new languages and technologies to achieve greater <strong>autonomy</strong> across the entire development lifecycle - from conception to deployment.
+  </p>
+</div>
 
 <br>
 <br>
