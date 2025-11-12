@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnayanmia31&label=Profile%20views&color=0e75b6&style=flat" alt="mdnayanmia31" /> </p>
 <p align="left"> <a href="https://twitter.com/Nayan_Karim31" target="blank"><img src="https://img.shields.io/twitter/follow/nayan31?logo=twitter&style=for-the-badge" alt="nayan31" /></a> </p>
  
-### 👨🏻‍💻 &nbsp;About Me <img align="left" width="175" height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+### &nbsp;About Me <img align="left" width="175" height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <div style="padding: 0 16px;">
   <p>
