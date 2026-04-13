@@ -1,8 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnayanmia31&label=Profile%20views&color=0e75b6&style=flat" alt="mdnayanmia31" /> </p>
-
 <div align="center">
-
-![Hello Pixle Art](https://github.com/user-attachments/assets/4bd09223-ba9e-4452-8b9a-f3a74fa9ca3a)
+  
+![Hello Pixle Art](https://github.com/user-attachments/assets/bf2a86a1-a854-46b8-9d85-f0b167941009)
 </div>
 
 I'm **Nayan** — passionate about **knowledge** in all its forms, whether technology, nature, the universe, or life itself.
