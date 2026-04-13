@@ -1,75 +1,82 @@
-<p align="center">
-  <img src="terminal.svg" alt="terminal typing" width="640" />
-</p>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnayanmia31&label=Profile%20views&color=0e75b6&style=flat" alt="mdnayanmia31" /> </p>
-<p align="left"> <a href="https://twitter.com/Nayan_Karim31" target="blank"><img src="https://img.shields.io/twitter/follow/nayan31?logo=twitter&style=for-the-badge" alt="nayan31" /></a> </p>
- 
-### &nbsp;About Me <img align="left" width="175" height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
-
-<div style="padding: 0 16px;">
-  <p>
-    I am <strong>Nayan</strong>, passionate about <strong>knowledge</strong> in all its forms - whether technology, nature, the universe, or life itself.
-    My hobbies revolve around various forms of <strong>development</strong>, from building applications to crafting designs. Since childhood, I've been fascinated by understanding how things work, which naturally led me to enjoy <strong>designing</strong> solutions and getting hands-on with <strong>development</strong>.
-  </p>
-  
-  <p>
-    Currently, I work as a Software Engineer at FinTech solutions, where I'm thoroughly enjoying my exploration of the finance world through Java - discovering how beautifully Java integrates within this domain.
-    I have a particular passion for <strong>web development</strong>, specializing in <strong>backend systems</strong> and full-stack applications using <strong>Spring Boot and React</strong>. As a full-stack developer, I bridge the gap between frontend elegance and backend robustness, creating seamless user experiences powered by solid architecture.
-  </p>
-  
-  <p>
-    I'm constantly eager to expand my technical horizons, learning new languages and technologies to achieve greater <strong>autonomy</strong> across the entire development lifecycle - from conception to deployment.
-  </p>
+![Hello Pixle Art](https://github.com/user-attachments/assets/4bd09223-ba9e-4452-8b9a-f3a74fa9ca3a)
 </div>
 
-<br>
-<br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnayanmia31&label=Profile%20views&color=0e75b6&style=flat" alt="mdnayanmia31" /> </p>
+ 
+### Hey there 🖐
+
+I'm **Nayan** — passionate about **knowledge** in all its forms, whether technology, nature, the universe, or life itself.
+
+My hobbies revolve around various forms of **development**, from building applications to crafting designs. Since childhood, I've been fascinated by understanding how things work, which naturally led me to enjoy **designing** solutions and getting hands-on with **development**.
+
+Currently, I work as a **Software Engineer** at [**@C-Technology**](https://kg.linkedin.com/company/llc-c-technology), where I'm thoroughly enjoying my exploration of the finance world through **Java**. I have a particular passion for **web development**, specializing in backend systems and full-stack applications using **Spring Boot and React**. As a full-stack developer, I bridge the gap between frontend elegance and backend robustness.
+
+---
 
 ### 🛠 &nbsp;Tech Stack
 
+#### Languages
+
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%23007ACC?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
+
+#### Frameworks
+
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=flat&logo=springsecurity&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-%236DB33F.svg?style=flat&logo=quarkus&labelColor=black&color=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-%234695EB.svg?style=flat&logo=quarkus&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![REST](https://img.shields.io/badge/-REST-grey?logo=REST)
-![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-yellow?logo=JPA)
-![Hibernate](https://img.shields.io/badge/-Hibernate-EB9315?logo=hibernate)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![Google Cloud Functions](https://img.shields.io/badge/Cloud%20Functions-%234285F4.svg?style=flat&logo=googlecloud&logoColor=white)
+
+#### Databases
+
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-1434A4.svg?style=flat&logo=jira)
-![Jenkins](https://img.shields.io/badge/Jenkins-E6DBD8.svg?style=flat&logo=jenkins)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![JPA](https://img.shields.io/badge/JPA-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+
+#### AI & Data
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Dialogflow CX](https://img.shields.io/badge/Dialogflow%20CX-%234285F4.svg?style=flat&logo=google&logoColor=white)
+![Big Data Pipelines](https://img.shields.io/badge/Big%20Data%20Pipelines-D22128?style=flat&logo=apache&logoColor=white)
+![Data Mining](https://img.shields.io/badge/Data%20Mining-150458?style=flat&logo=pandas&logoColor=white)
+![Statistical Modelling](https://img.shields.io/badge/Statistical%20Modelling-F37626?style=flat&logo=jupyter&logoColor=white)
+
+#### Infrastructure
+
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat&logo=curl&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) 
-![Git](https://img.shields.io/badge/-Git-orange?logo=git&labelColor=white&color=white) 
-![GitHub](https://img.shields.io/badge/-GitHub-%23591792?logo=github&labelColor=%23591792&color=%23591792) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
-![Intellij](https://img.shields.io/badge/-Intellij-white?logo=intellij-idea&logoColor=black) 
-![Eclipse](https://img.shields.io/badge/-Eclipse-D0CCCB?logo=eclipse&logoColor=5A07B2) 
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual%20studio%20code&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=googlecloud&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![WebLogic](https://img.shields.io/badge/WebLogic-F80000?style=flat&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-D24939?style=flat&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+#### Practices
 
-### 📫 &nbsp; How to reach me:
+![Microservices](https://img.shields.io/badge/Microservices-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![OWASP Security](https://img.shields.io/badge/OWASP%20Security-000000?style=flat&logo=owasp&logoColor=white)
+![Database Optimisation](https://img.shields.io/badge/Database%20Optimisation-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![API Design](https://img.shields.io/badge/API%20Design-FF6C37?style=flat&logo=postman&logoColor=white)
+![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=flat&logo=jira&logoColor=white)
 
+---
 
-<a href="https://www.linkedin.com/in/mdnayanmia/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+### 📫 &nbsp;How to reach me
+
+<a href="https://www.linkedin.com/in/mdnayanmia/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:mdnayanmia31@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
