@@ -1,14 +1,17 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnayanmia31&label=Profile%20views&color=0e75b6&style=flat" alt="mdnayanmia31" /> </p>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=mdnayanmia31&label=Profile%20views&color=0e75b6&style=flat" alt="mdnayanmia31" /> &nbsp;&nbsp;
+<a href="https://mdnayanmia31.github.io/Portfolio/"><img src="https://github.com/user-attachments/assets/8428356a-dfc9-4361-8961-7d3e913bed91"width="100"></a>
+</div>
+
 <div align="center">
   
 ![Hello Pixle Art](https://github.com/user-attachments/assets/bf2a86a1-a854-46b8-9d85-f0b167941009)
 </div>
 
-I'm **Nayan** — passionate about **knowledge** in all its forms, whether technology, nature, the universe, or life itself.
-
-My hobbies revolve around various forms of **development**, from building applications to crafting designs. Since childhood, I've been fascinated by understanding how things work, which naturally led me to enjoy **designing** solutions and getting hands-on with **development**.
-
-Currently, I work as a **Software Engineer** at [**@C-Technology**](https://kg.linkedin.com/company/llc-c-technology), where I'm thoroughly enjoying my exploration of the finance world through **Java**. I have a particular passion for **web development**, specializing in backend systems and full-stack applications using **Spring Boot and React**. As a full-stack developer, I bridge the gap between frontend elegance and backend robustness.
+### Heyyyyyy 🖐! 
+**I am Nayan**<br>
+ • Working as a **Software Engineer** at [**@C-Technology**](https://kg.linkedin.com/company/llc-c-technology)<br> 
+ • Currently learning Java, React & Data Science!<br> 
 
 ---
 
